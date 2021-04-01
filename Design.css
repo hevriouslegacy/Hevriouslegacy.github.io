@@ -49,8 +49,8 @@ nav ul li a:visited {
 }
 nav ul li a:hover,
 nav ul li a:visited:hover {
-  background: #2581DC;
-  color: #ffffff;
+  background: #822630;
+  color: #262626;
 }
 nav ul li a:not(:only-child):after,
 nav ul li a:visited:not(:only-child):after {
@@ -152,4 +152,23 @@ nav ul li ul li a {
 }
 #nav-toggle.active span:after {
   transform: rotate(-45deg);
+}
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font: 
+}
+    }
+
+    article {
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: 10px;
+}
+.Fbpipe{
+  float: right;
 }
