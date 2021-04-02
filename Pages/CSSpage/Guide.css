@@ -1,0 +1,62 @@
+.pipeheader {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: #161616;
+  font-family: Times New Roman;
+  color: white;
+}
+.pipeheadertitle {
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  background: #161616;
+  font-family: Times New Roman;
+  color: white;
+}
+.pipeadv {   
+  float: left;
+  width: 100%;
+}
+.pipeadvs {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+.imgpipe {
+  width: 51%;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.layout {
+   background-color: #161616;
+   padding: 20px;
+   margin-top: 20px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footies {
+  padding: 20px;
+  text-align: center;
+  background: #161616;
+  margin-top: 20px;
+}
+.pad1 {
+  padding: 5px;
+}
+h2 {
+  color: white;
+}
+h5 {
+  color: white;
+}
+p {
+  color: white;
+}
+.screen {
+  max-width: 100%;
+  height: auto;
+}
