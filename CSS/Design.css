@@ -163,6 +163,7 @@ nav ul li ul li a {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   font: ;
+  margin-top: 60px;
 }
 .centertitle {
   position: relative;
@@ -214,8 +215,4 @@ section::after {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
-}
-.fuckthis {
-  margin-top: 0px;
-  padding-top: 200px;
 }
