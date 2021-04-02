@@ -155,12 +155,13 @@ nav ul li ul li a {
 }
 .center {
   margin: 0;
-  position: absolute;
+  position: relative;
   top: 50%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  margin-top: 500px;
+  font: ;
+  margin-top: 600px;
 }
 .centertitle {
   position: relative;
@@ -171,15 +172,6 @@ nav ul li ul li a {
   font: ;
   margin-top: 50px;
   margin-right: 85%;
-}
-.centercenter{
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  font: ;
 }
 .Fbpipe{
   float: right;
