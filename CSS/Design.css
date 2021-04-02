@@ -216,3 +216,6 @@ section::after {
   padding: 20px;
   margin-top: 20px;
 }
+.twits {
+  float: left;
+}
