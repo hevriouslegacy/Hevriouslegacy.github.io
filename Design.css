@@ -160,7 +160,18 @@ nav ul li ul li a {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  font: 
+  font: ;
+  margin-top: 400px;
+}
+.centertitle {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font: ;
+  margin-top: 50px;
+  margin-right: 85%;
 }
 .Fbpipe{
   float: right;
