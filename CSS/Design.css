@@ -218,4 +218,5 @@ section::after {
 }
 .twits {
   float: left;
+  margin-top: 60px;
 }
